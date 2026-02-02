@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Clare&#39;s Blog</title>
-    <link>https://clarence-hsiang.github.io/Clarence-Blog/tags/</link>
+    <link>https://clarence-hsiang.github.io/tags/</link>
     <description>Recent content in Tags on Clare&#39;s Blog</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>zh-cn</language>
     <copyright>2026 Clare</copyright>
     <lastBuildDate>Mon, 02 Feb 2026 14:28:31 +0800</lastBuildDate>
-    <atom:link href="https://clarence-hsiang.github.io/Clarence-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://clarence-hsiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>测试</title>
-      <link>https://clarence-hsiang.github.io/Clarence-Blog/tags/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://clarence-hsiang.github.io/tags/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 02 Feb 2026 14:28:31 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/Clarence-Blog/tags/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://clarence-hsiang.github.io/tags/%E6%B5%8B%E8%AF%95/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://clarence-hsiang.github.io/Clarence-Blog/tags/hugo/</link>
+      <link>https://clarence-hsiang.github.io/tags/hugo/</link>
       <pubDate>Mon, 02 Feb 2026 12:30:00 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/Clarence-Blog/tags/hugo/</guid>
+      <guid>https://clarence-hsiang.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>博客</title>
-      <link>https://clarence-hsiang.github.io/Clarence-Blog/tags/%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://clarence-hsiang.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 02 Feb 2026 12:30:00 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/Clarence-Blog/tags/%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://clarence-hsiang.github.io/tags/%E5%8D%9A%E5%AE%A2/</guid>
       <description></description>
     </item>
   </channel>

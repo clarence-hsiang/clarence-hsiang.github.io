@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Clare&#39;s Blog</title>
-    <link>https://clarence-hsiang.github.io/Clarence-Blog/tags/hugo/</link>
+    <link>https://clarence-hsiang.github.io/tags/hugo/</link>
     <description>Recent content in Hugo on Clare&#39;s Blog</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>zh-cn</language>
     <copyright>2026 Clare</copyright>
     <lastBuildDate>Mon, 02 Feb 2026 12:30:00 +0800</lastBuildDate>
-    <atom:link href="https://clarence-hsiang.github.io/Clarence-Blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://clarence-hsiang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇文章</title>
-      <link>https://clarence-hsiang.github.io/Clarence-Blog/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <link>https://clarence-hsiang.github.io/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
       <pubDate>Mon, 02 Feb 2026 12:30:00 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/Clarence-Blog/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://clarence-hsiang.github.io/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
       <description>这是我使用 Hugo 写的第一篇文章。</description>
     </item>
   </channel>
