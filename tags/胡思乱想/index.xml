@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Category 1 on Clare&#39;s Blog</title>
-    <link>http://localhost:1313/categories/category-1/</link>
-    <description>Recent content in Category 1 on Clare&#39;s Blog</description>
+    <title>胡思乱想 on Clare&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/</link>
+    <description>Recent content in 胡思乱想 on Clare&#39;s Blog</description>
     <generator>Hugo -- 0.155.1</generator>
     <language>zh-cn</language>
     <copyright>2026 Clare</copyright>
     <lastBuildDate>Tue, 10 Mar 2026 15:31:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一些思考</title>
       <link>http://localhost:1313/posts/2026/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
