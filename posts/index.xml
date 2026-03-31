@@ -16,19 +16,5 @@
       <guid>https://clarence-hsiang.github.io/posts/2026/03/%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
       <description>近期对未来的一些胡思乱想</description>
     </item>
-    <item>
-      <title>第二份测试文件</title>
-      <link>https://clarence-hsiang.github.io/posts/2026/02/%E7%AC%AC%E4%BA%8C%E4%BB%BD%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</link>
-      <pubDate>Mon, 02 Feb 2026 14:28:31 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/posts/2026/02/%E7%AC%AC%E4%BA%8C%E4%BB%BD%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</guid>
-      <description>这是第二份测试文件，用来完善我的 blog 写作与发布流程。</description>
-    </item>
-    <item>
-      <title>我的第一篇文章</title>
-      <link>https://clarence-hsiang.github.io/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-      <pubDate>Mon, 02 Feb 2026 12:30:00 +0800</pubDate>
-      <guid>https://clarence-hsiang.github.io/posts/2026/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-      <description>这是我使用 Hugo 写的第一篇文章。</description>
-    </item>
   </channel>
 </rss>
